@@ -11,17 +11,11 @@ nav_order: 2
 <a class="btn" href="#">Past Papers & Lecture Notes</a> -->
 
 <!-- contents of headings-->
-- [Grade Report](#grade-report)
-    - [General Program (Semesters 1 & 2)](#general-program-semesters-1--2)
-    - [Semester 3](#semester-3)
-    - [Semester 4](#semester-4)
-    - [Semester 5](#semester-5)
-    - [Semester 6](#semester-6)
 - [Lecture Notes, Labs, and Assignments](#lecture-notes-labs-and-assignments)
 - [Casual Instructor Work](#casual-instructor-work)
 
 
-# Grade Report
+<!-- # Grade Report
 <hr>
 All engineering students at University of Peradeniya follow the general program for semester 1 and 2. I have selected the computer engineering specialization program after completing the general program.
 
@@ -29,7 +23,7 @@ All engineering students at University of Peradeniya follow the general program 
 
 ### General Program (Semesters 1 & 2)
 <!-- table for grades -->
-<table>
+<!-- <table>
     <thead>
         <tr>
             <th>Course Code</th>
@@ -274,7 +268,7 @@ TBA
         </tr>
     </tbody>
 </table>
-<hr>
+<hr> --> -->
 
 # Lecture Notes, Labs, and Assignments
 <hr>
