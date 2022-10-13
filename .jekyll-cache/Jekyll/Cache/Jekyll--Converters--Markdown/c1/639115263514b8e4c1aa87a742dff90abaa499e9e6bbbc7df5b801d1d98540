@@ -1,19 +1,9 @@
----
-layout: page
-permalink: /university/
-title: university
-description: Department of Computer Engineering, University of Peradeniya
-nav: false
-nav_order: 2
----
-Site still under construction - please excuse the mess! 👷🏾‍♂️
-<!-- <a class="btn" href="http://127.0.0.1:4000/assets/pdf/Grade_Report.pdf">Grade Report</a>
+I"<<!-- <a class="btn" href="http://127.0.0.1:4000/assets/pdf/Grade_Report.pdf">Grade Report</a>
 <a class="btn" href="#">Past Papers & Lecture Notes</a> -->
 
 <!-- contents of headings-->
 <!-- - [Lecture Notes, Labs, and Assignments](#lecture-notes-labs-and-assignments)
 - [Casual Instructor Work](#casual-instructor-work) -->
-
 
 <!-- # Grade Report
 <hr>
@@ -275,3 +265,4 @@ TBA
 
 # Casual Instructor Work
 <hr> -->
+:ET
