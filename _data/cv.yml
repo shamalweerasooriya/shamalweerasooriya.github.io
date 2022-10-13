@@ -1,0 +1,156 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sasanka Shamal Weerasooriya
+    - name: Date of Birth
+      value: 14th September 1998
+    - name: Languages
+      value: English, Sinhala
+
+- title: Education
+  type: time_table
+  contents:
+    - title: BSc. Computer Engineering
+      institution: Faculty of Engineering, University of Peradeniya, Sri Lanka
+      year: 2019 - now
+      description:
+        - GPA - 3.72/4.0
+    - title: Primary and Secondary Education
+      institution: st Anthony's College, Kandy, Sri Lanka
+      year: 2004 - 2017
+      description:
+        - title: G.C.E. A/L (Physical Science)
+          contents:
+            - Combined Mathematics (A), Physics (A), Chemistry (B)
+            - Z-Score - 1.9365
+            - Distric Rank (Kandy, Sri Lanka) - 44/2784
+            - Country Rank - 635/32075
+
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Teaching Assistant in Department of Computer Engineering
+      institution: Faculty of Engineering, University of Peradeniya, Sri Lanka
+      year: 2021 - now
+      description:
+        - title: Courses Assisted
+          contents:
+            - CO253 (Introduction to Programming and networking for Electrical Engineering)
+            - CO321 (Introduction to Embedded Systems)
+            - CO323 (Computer Networks - II)
+    - title: Web Developer for Embedded Systems and Computer Architecture Laboratory
+      institution: Department of Computer Engineering, Faculty of Engineering, University of Peradeniya, Sri Lanka
+      year: 2020 - now
+    - title: Freelance software developer and document editor 
+      institution: <a href="https://www.fiverr.com/shamal98" target="_blank">Fiverr</a> (Checkout my profile here)
+      year: 2021 - now
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://cepdnaclk.github.io/e17-3yp-remote-keyboard-tutoring-system/">Remote Keyboard Tutoring System | Group Project</a>
+      year: 2021-now
+      description: 
+        - A web-based system to interactively learn, play or teach piano in combination with the aid of a hardware unit and a web application.
+        - Technologies - React JS, Node JS, Express, Flutter, Embedded Systems, AWS
+    - title: <a href="https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images/">Analysis Tool for Industrial Images | Group Project</a>
+      year: 2021-now
+      description: 
+        - An analysis tool for increasing the performance of an injection mold maintenance device which uses image processing techniques to identify stuck plastic particles on molds.
+        - Technologies - React JS, Node JS, Express, Python
+    - title: <a href="http://127.0.0.1:4000/projects/1_project/">FPGA Processor Customization for CRC</a>
+      year: 2021
+      description: 
+        - Using custom instructions to the existing MIPS ISA of the NiosII processor of Altera Cyclone IV FPGA board, for performing the modulo-2 division, to enhance operation of CRC algorithm.
+        - Technologies - FPGA Development Board Altera CycloneIV, Quartus II, Nios II Software Build Tools, C, Verilog
+    - title: <a href="https://github.com/shamalweerasooriya/8-bit-single-cycle-processor">8-bit single cycle processor | Group Project</a>
+      year: 2020
+      description: 
+        - An 8-bit single cycle CPU with associated memory hierarchy. The processor includes an ALU, register file, control logic, forwarding unit, data memory, data cache, instruction memory and instruction cache.
+        - Technologies - Verilog-HDL
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Programming Languages (Fluent)
+      items: 
+        - C, Java, Python, JavaScript, MATLAB
+    - title: Programming Languages (Familiar)
+      items:
+        - C++, Verilog HDL, PHP
+    - title: Web Development
+      items:
+        - React JS, Node JS, Express, HTML, CSS, Bootstrap
+    - title: Database Management
+      items:
+        - MySQL, MongoDB
+    - title: PCB Design
+      items:
+        - Proteus
+    - title: Version Control
+      items:
+        - Git, GitHub
+    - title: Computer-Aided Design
+      items:
+        - AutoCAD, SolidWorks
+
+- title: Honors and Awards (Academic)
+  type: time_table
+  contents:
+    - title: Mini Hackathon - ICDS
+      year: 2021
+      description: 
+      - Data Science Hackathon organized by University of Colombo
+      - 5th Place(Out of 100+ teams)
+    - title: ACES Coders
+      year: 2020
+      description:
+      - Overnight inter-university coding competition organized by University of Peradeniya
+      - 14th Place(out of 100+ teams)
+    - title: Hacktitude 2022
+      year: 2022
+      description:
+      - Overnight coding competition organized by 99x
+      - 14th Place(out of 200+ teams)
+    - title: Special award at st. Anthony’s College, Kandy, Sri Lanka for Outstanding performance in G.C.E A/L with a z- score of 1.9365
+      year: 2017
+
+- title: Extra Curricular Activities and Achievements
+  type: time_table
+  contents:
+    - title: Plate champions at all nation, under 16, inter-school rugby tournament division-1
+      year: 2013
+      description: 
+      - Organized by Sri Lanka Schools Rugby Association
+    - title: Special awards (school colours) for rugby at st. Anthony’s College, Kandy, Sri Lanka
+      year: 2013
+    - title: Pre-quarter finalists at all nation, under 15, inter-school cricket championship 
+      year: 2012
+      description:
+      - Organized by Sri Lanka Schools Cricket Association
+    - title: 4th place at inter-university rugby championship, Sri Lanka
+      year: 2019
+    - title: University sports colours for ruby at University of Peradeniya, Sri Lanka
+      year: 2019
+    
+
+
+- title: Interests
+  type: list
+  contents:
+    - Embedded Systems
+    - Industrial Computer Networks and Systems Engineering
+    - Machine Learning
+    - Web and Mobile Application Development
+    - Industrial Automation
+
+- title: References
+  type: nested_list
+  contents:
+  - title: Dr. Isuru Nawinne
+    items: 
+      - PH.D. Computer Science and Engineering, UNSW Sydney, Australia
+      - Senior Lecturer, University of Peradeniya, Sri Lanka
+      - isurunawinne@eng.pdn.ac.lk
