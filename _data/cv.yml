@@ -15,9 +15,9 @@
       institution: Faculty of Engineering, University of Peradeniya, Sri Lanka
       year: 2019 - now
       description:
-        - GPA - 3.74/4.0
+        - GPA - 3.77/4.0
     - title: Primary and Secondary Education
-      institution: st Anthony's College, Kandy, Sri Lanka
+      institution: St. Anthony's College, Kandy, Sri Lanka
       year: 2004 - 2017
       description:
         - title: G.C.E. A/L (Physical Science)
@@ -55,21 +55,42 @@
       description: 
         - A web-based system to interactively learn, play or teach piano in combination with the aid of a hardware unit and a web application.
         - Technologies - React JS, Node JS, Express, Flutter, Embedded Systems, AWS
+        - title: Contribution 
+          contents:
+          - UI/UX design for an e-learning platform specific to keyboard/piano learners/tutors
+          - Front development through React JS
+          - Back end and API development through Node JS and Express
+          - Hosting and deployment of the web application through AWS
     - title: <a href="https://cepdnaclk.github.io/e17-co328-Analysis-Tool-for-Industrial-Images/">Analysis Tool for Industrial Images | Group Project</a>
       year: 2021-now
       description: 
         - An analysis tool for increasing the performance of an injection mold maintenance device which uses image processing techniques to identify stuck plastic particles on molds.
         - Technologies - React JS, Node JS, Express, Python
+        - title: Contribution 
+          contents:
+          - UI/UX design for a dashboard to display the analysis results
+          - API development through Node JS and Express
+          - Image processing and analysis through Python
+          - Hosting and deployment of the web application through Azure
     - title: <a href="http://127.0.0.1:4000/projects/1_project/">FPGA Processor Customization for CRC</a>
       year: 2021
       description: 
         - Using custom instructions to the existing MIPS ISA of the NiosII processor of Altera Cyclone IV FPGA board, for performing the modulo-2 division, to enhance operation of CRC algorithm.
         - Technologies - FPGA Development Board Altera CycloneIV, Quartus II, Nios II Software Build Tools, C, Verilog
+        - title: Techniques
+          contents:
+            - Custom instructions to the existing MIPS ISA of the NiosII processor of Altera Cyclone IV FPGA board
+            - Modulo-2 division
+            - CRC algorithm
     - title: <a href="https://github.com/shamalweerasooriya/8-bit-single-cycle-processor">8-bit single cycle processor | Group Project</a>
       year: 2020
       description: 
         - An 8-bit single cycle CPU with associated memory hierarchy. The processor includes an ALU, register file, control logic, forwarding unit, data memory, data cache, instruction memory and instruction cache.
         - Technologies - Verilog-HDL
+        - title: Techniques
+          contents:
+            - RISC architecture
+            - Caching
 
 - title: Technical Skills
   type: nested_list
@@ -114,7 +135,7 @@
       description:
       - Overnight coding competition organized by 99x
       - 14th Place(out of 200+ teams)
-    - title: Special award at st. Anthony’s College, Kandy, Sri Lanka for Outstanding performance in G.C.E A/L with a z- score of 1.9365
+    - title: Special award at St. Anthony’s College, Kandy, Sri Lanka for Outstanding performance in G.C.E A/L with a z- score of 1.9365
       year: 2017
 
 - title: Extra Curricular Activities and Achievements
